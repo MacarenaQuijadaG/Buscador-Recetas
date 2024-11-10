@@ -1,13 +1,13 @@
-# Generador de Ideas de Recetas con Flask
+# Generador de Ideas de Recetas 
 
 Este es un proyecto que utiliza la API de Spoonacular para generar ideas de recetas basadas en los ingredientes proporcionados por el usuario. Utiliza Python y Flask para el backend, con HTML y CSS para el frontend.
 
 ## Visuales
-Muestra pantalla principal
+- **Muestra pantalla principal**
 ![1](https://github.com/user-attachments/assets/391695d3-5b34-4484-ae12-8c198d008ef6)
-Pantalla con los resultados
+- **Pantalla con los resultados**
 ![2](https://github.com/user-attachments/assets/5432d522-82b6-43a7-8105-de5644816584)
-Pantalla que contiene la receta
+- **Pantalla que contiene la receta**
 ![3](https://github.com/user-attachments/assets/4e1acc8b-c139-49df-b75e-f44e80305039)
 
 
