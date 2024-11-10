@@ -18,9 +18,6 @@ A continuación se muestran las pantallas principales de la aplicación:
    Detalles de una receta específica, incluyendo los pasos e información adicional.
    ![Pantalla con la Receta](https://github.com/user-attachments/assets/4e1acc8b-c139-49df-b75e-f44e80305039)
 
-
-
-
 ## Características
 
 - **Búsqueda por ingredientes**: Permite ingresar una lista de ingredientes y obtener recetas que se pueden hacer con esos ingredientes.
@@ -40,17 +37,14 @@ A continuación se muestran las pantallas principales de la aplicación:
    Clona este repositorio en tu máquina local utilizando Git:
 
    ```bash
-   git clone https://github.com/MacarenaQuijadaG/Crud-Laravel.git
+   git clone https://github.com/MacarenaQuijadaG/Buscador-Recetas.git
    ```
-   cd CRUD-APP
+   cd recetario
 
 2. **Instalar Dependencias**
 
    Instala todas las dependencias del proyecto:
 
-   ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-   ```
    Crear entorvo Virtual
     ```bash
      python -m venv venv
