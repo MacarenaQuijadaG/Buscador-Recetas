@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Resultados de Recetas</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Resultados de Recetas</h1>
+    <div class="container">
+        <ul>
+            {% for recipe in recipes %}
+                <li>
+                    <a href="{{ url_for('recipe', recipe_id=recipe.id) }}">{{ recipe.title }}</a>
+                    <p>Tiempo de preparación: {{ recipe.readyInMinutes }} min</p>
+                    <p>Calorías: {{ recipe.calories }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+        <a href="/">Volver a Buscar</a>
+    </div>
+    
+</body>
+</html>
