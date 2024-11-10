@@ -61,3 +61,7 @@ A continuación se muestran las pantallas principales de la aplicación:
    ```bash
      python app.py
    ```
+
+---
+
+⌨️ con ❤️ por [Macarena Quijada G](https://github.com/MacarenaQuijadaG)
