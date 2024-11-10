@@ -3,12 +3,21 @@
 Este es un proyecto que utiliza la API de Spoonacular para generar ideas de recetas basadas en los ingredientes proporcionados por el usuario. Utiliza Python y Flask para el backend, con HTML y CSS para el frontend.
 
 ## Visuales
-- **Muestra pantalla principal**
-![1](https://github.com/user-attachments/assets/391695d3-5b34-4484-ae12-8c198d008ef6)
-- **Pantalla con los resultados**
-![2](https://github.com/user-attachments/assets/5432d522-82b6-43a7-8105-de5644816584)
-- **Pantalla que contiene la receta**
-![3](https://github.com/user-attachments/assets/4e1acc8b-c139-49df-b75e-f44e80305039)
+
+A continuación se muestran las pantallas principales de la aplicación:
+
+1. **Pantalla Principal**  
+   La página inicial donde los usuarios pueden ingresar los ingredientes para buscar recetas.
+   ![Pantalla Principal](https://github.com/user-attachments/assets/391695d3-5b34-4484-ae12-8c198d008ef6)
+
+2. **Pantalla con los Resultados**  
+   Aquí se muestran los resultados de las recetas basadas en los ingredientes ingresados por el usuario.
+   ![Pantalla con los Resultados](https://github.com/user-attachments/assets/5432d522-82b6-43a7-8105-de5644816584)
+
+3. **Pantalla que Contiene la Receta**  
+   Detalles de una receta específica, incluyendo los pasos e información adicional.
+   ![Pantalla con la Receta](https://github.com/user-attachments/assets/4e1acc8b-c139-49df-b75e-f44e80305039)
+
 
 
 
