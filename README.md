@@ -18,8 +18,7 @@ A continuación se muestran las pantallas principales de la aplicación:
    Detalles de una receta específica, incluyendo los pasos e información adicional.
    ![Pantalla con la Receta](https://github.com/user-attachments/assets/4e1acc8b-c139-49df-b75e-f44e80305039)
 
-## Características
-
+## Característica.        
 - **Búsqueda por ingredientes**: Permite ingresar una lista de ingredientes y obtener recetas que se pueden hacer con esos ingredientes.
 - **Detalles de receta**: Muestra los detalles de cada receta, incluyendo instrucciones de preparación y una imagen.
 - **Interfaz simple y limpia**: La interfaz es sencilla y fácil de usar, diseñada con HTML y estilizada con CSS.
