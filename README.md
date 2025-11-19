@@ -1,7 +1,7 @@
 # Generador de Ideas de Recetas 
 
 Este es un proyecto que utiliza la API de Spoonacular para generar ideas de recetas basadas en los ingredientes proporcionados por el usuario. Utiliza Python y Flask para el backend, con HTML y CSS para el frontend.
-
+ 
 ## Visuales
 
 A continuación se muestran las pantallas principales de la aplicación:
